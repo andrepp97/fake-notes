@@ -1,7 +1,7 @@
 {
   "notes": [
-    { "id": 1, "title": "Memberi Makan Angsa", "note": "Jam 7 pagi aku harus kasih makan angsa2 ku" },
-    { "id": 2, "title": "Nganter Adek Kuliah", "note": "Jam 10 nganter adek kuliah, kelas advertising 101" },
-    { "id": 3, "title": "Maen Game bareng Budi", "note": "Sekitar jam 3 sore mabar sama Budi, push rank lur" }
+    { "id": 1, "completed": false, "title": "Memberi Makan Angsa", "note": "Jam 7 pagi aku harus kasih makan angsa2 ku" },
+    { "id": 2, "completed": false, "title": "Nganter Adek Kuliah", "note": "Jam 10 nganter adek kuliah, kelas advertising 101" },
+    { "id": 3, "completed": false, "title": "Maen Game bareng Budi", "note": "Sekitar jam 3 sore mabar sama Budi, push rank lur" }
   ]
 }
